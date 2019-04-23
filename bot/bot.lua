@@ -56,12 +56,6 @@ end
   config = {
     enabled_plugins = {
    "plugins",
-    "msg_checks",
-    "groupmanager",
-    "tools",
-    "banhammer",
-    "replay",
-    "games",
     },
     sudo_users = {776008296, SUDO},--Sudo users
     master_id = SUDO, 
