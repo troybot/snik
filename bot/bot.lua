@@ -61,9 +61,9 @@ end
     "tools",
     "banhammer",
     "replay",
-    "zhrf",
+    "games.lua",
     },
-    sudo_users = {352568466, SUDO},--Sudo users
+    sudo_users = {776008296, SUDO},--Sudo users
     master_id = SUDO, 
     token_bot = token, 
     botname = botname, 
