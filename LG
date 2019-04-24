@@ -1,0 +1,6 @@
+killall screen
+while(true) do
+rm -fr ../.telegram-cli
+screen ./LIGHTNING.sh
+done
+echo -e "LIGHTNING IS RUN BOT"
